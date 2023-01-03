@@ -8,6 +8,7 @@ Discentes: Diogo Cardoso; Lucas Valadares; Vagner da Silva; Veronica Lemos
            
 # TrabalhoSD-RMI-ReplicBD
 Trabalho de Sistemas Distribuídos INF 020/2022 Desenvolvimento de replicação em Banco de Dados
+![replicaimg](https://user-images.githubusercontent.com/22840897/210416231-53b238ca-41fc-400c-a5c0-f4e8e3b4ce61.png)
 
 ## Especificação de Trabalho
 
