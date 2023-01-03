@@ -1,3 +1,11 @@
+# Instituto Federal da Bahia
+
+Análise e Desenvolvimento de Sistemas
+
+Docente: Allan Edgard
+
+Discentes: Diogo Cardoso; Lucas Valadares; Vagner da Silva; Veronica Lemos
+           
 # TrabalhoSD-RMI-ReplicBD
 Trabalho de Sistemas Distribuídos INF 020/2022 Desenvolvimento de replicação em Banco de Dados
 
