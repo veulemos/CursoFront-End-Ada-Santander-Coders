@@ -8,3 +8,4 @@ git --version
 git clone
 git init
 git status
+* comando git pull
